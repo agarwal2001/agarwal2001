@@ -1,5 +1,5 @@
 # 💫 <h1 align="center">Hi 👋, I'm Rachit Agarwal</h1>
-Hi 👋, I'm Rachit Agarwal<br><br>A passionate AIML developer , with an in-depth knowledge in C++, Python , DBMS and DSA with an on-hand experience with technologies like Vs-code , Github , Pycharm<br><br><br>- 🔭 I’m currently working on **Smart Attendance System**<br><br>- 🌱 I’m currently learning **React , Node Js**<br><br>- 👯 I’m looking to collaborate on **Open Source**<br><br>- 📫 How to reach me **https://www.linkedin.com/in/rachit-agarwal-01869a160**
+<br>A passionate AIML developer , with an in-depth knowledge in C++, Python , DBMS and DSA with an on-hand experience with technologies like Vs-code , Github , Pycharm<br><br><br>- 🔭 I’m currently working on **Smart Attendance System**<br><br>- 🌱 I’m currently learning **React , Node Js**<br><br>- 👯 I’m looking to collaborate on **Open Source**<br><br>- 📫 How to reach me **https://www.linkedin.com/in/rachit-agarwal-01869a160**
 
 
 ## 🌐 Connect with me:
