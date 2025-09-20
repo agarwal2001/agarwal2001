@@ -5,7 +5,9 @@
 
 🌱 I’m currently learning Advanced Spark Optimization & Cloud Data Warehousing
 
-👯 I’m looking to collaborate on Open Source Data Engineering & Cloud Projects📫 How to reach me **https://www.linkedin.com/in/rachit-agarwal-01869a160**
+👯 I’m looking to collaborate on Open Source Data Engineering & Cloud Projects
+
+📫 How to reach me **https://www.linkedin.com/in/rachit-agarwal-01869a160**
 
 
 ## 🌐 Connect with me:
