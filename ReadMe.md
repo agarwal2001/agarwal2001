@@ -20,8 +20,14 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![PySpark](https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=plastic&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/airflow-%23017CEE.svg?style=plastic&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=plastic&logo=amazon-aws&logoColor=FF9900)
+![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=plastic&logo=amazon-aws&logoColor=FF9900)
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=plastic&logo=amazon-aws&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=plastic&logo=aws-lambda&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=plastic&logo=amazon-ec2&logoColor=white)
+![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-232F3E?style=plastic&logo=apachehadoop&logoColor=yellow)
+![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-232F3E?style=plastic&logo=amazon-aws&logoColor=FF4F8B)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=agarwal2001&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
